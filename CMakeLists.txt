@@ -33,7 +33,6 @@ set(LUA_SOURCES
 	lutf8lib.c
 	lvm.c
 	lzio.c
-	onelua.c
 	lapi.h
 	lauxlib.h
 	lcode.h
